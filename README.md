@@ -33,9 +33,9 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 2- Required installation : 
 To install the required packages for this project check the installations in the ArtiQuery.ipynb file , or jsut use the command : pip install -r requirements.txt
 
-3. Set Up Environment Variables :
+3- Set Up Environment Variables :
 GEMINI_API_KEY=your_google_gemini_api_key
 NGROK_AUTH_TOKEN=your_ngrok_auth_token
 
-4. Create a main.py file and paste the code of the two main cells ( The first cell for the fonction and the second cell that runs the application ) and run the app using the command (python main.py)
+4- Create a main.py file and paste the code of the two main cells ( The first cell for the fonction and the second cell that runs the application ) and run the app using the command (python main.py)
    
