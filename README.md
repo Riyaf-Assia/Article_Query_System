@@ -11,7 +11,7 @@
 - 📚 See which articles were used as sources for the response.
 - 🌐 Accessible via a public link using Ngrok.
 
-🧠 Tech Stack
+# 🧠 Tech Stack
 Frontend: Streamlit
 
 LLM: Google Gemini via LangChain
